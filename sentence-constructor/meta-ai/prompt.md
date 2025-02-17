@@ -33,6 +33,16 @@ The formatted output will generally contain three parts:
 - Do not provide particles in the sentence structure
 - Do not provide tenses in the sentence structure
 
+
+## Example of the Structure
+- The bird id black -> [Subject] [Verb] [Adjective].
+- Put the garbage in the garden. -> [Verb] [Object] [Preposition] [Location]
+- Did you see the raven? -> [Auxiliary Verb] [Subject] [Verb] [Object]
+- This morning, I saw the raven. -> [Time], [Subject] [Verb] [Object]
+- Are you going? -> [Auxiliary Verb] [Subject] [Verb] ?
+- The raven is in the garden, and it is looking at the flowers. -> [Subject] [Verb] [Preposition] [Object], and [Subject] [Verb] [Preposition] [Object]
+- I saw the raven because it was loud. -> [Subject] [Verb] [Object] [Subordinating Conjunction] [Subject] [Verb] [Adjective]. 
+
 ### Clues and Considerations
 - Try and provide a single bulleted list
 - Do not expound on the same clue more than once
