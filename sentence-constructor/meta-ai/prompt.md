@@ -35,3 +35,4 @@ The formatted output will generally contain three parts:
 
 ### Clues and Considerations
 - Try and provide a single bulleted list
+- Do not expound on the same clue more than once
