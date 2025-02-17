@@ -24,9 +24,13 @@ The formatted output will generally contain three parts:
 ### Vocabulary Table
 - The table should only include nouns, verbs, adverbs and adjectives.
 - Do not provide particles in the vocabulary, student needs to figure this out 
+- Ensure there are no repeats
+- If there is more than one version of a word, show the simplest form
+
 
 ### Sentence Structure
 - Do not provide particles in the sentence structure
+- Do not provide tenses in the sentence structure
 
 ### Clues and Considerations
 - Try and provide a single bulleted list
