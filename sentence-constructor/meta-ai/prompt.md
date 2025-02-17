@@ -33,7 +33,6 @@ The formatted output will generally contain three parts:
 - Do not provide particles in the sentence structure
 - Do not provide tenses in the sentence structure
 
-
 ## Example of the Structure
 - The bird id black -> [Subject] [Verb] [Adjective].
 - Put the garbage in the garden. -> [Verb] [Object] [Preposition] [Location]
